@@ -1,0 +1,1 @@
+# hida-course-validating-ai-for-image-analysis
